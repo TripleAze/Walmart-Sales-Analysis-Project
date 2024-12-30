@@ -85,12 +85,6 @@ The project includes several SQL queries organized into logical sections:
 - Average ratings for transactions based on spending tiers.
 - Exploring patterns between ratings and revenue.
 
-## Future Work
-
-- **Visualization:** Creating dashboards in Power BI to visualize key insights.
-- **Predictive Analysis:** Using machine learning techniques to predict future sales trends.
-- **Enhancing Queries:** Adding more complex joins and subqueries for deeper insights.
-
 ## How to Use
 
 ### Clone the Repository
