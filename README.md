@@ -1,4 +1,4 @@
- Walmart Sales Analysis Project
+## Walmart Sales Analysis Project
 
 ## Project Overview
 
